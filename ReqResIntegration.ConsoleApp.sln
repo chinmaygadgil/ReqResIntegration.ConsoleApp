@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqResIntegration.ConsoleApp", "ReqResIntegration.ConsoleApp\ReqResIntegration.ConsoleApp.csproj", "{224CA6C6-8936-4E0F-A0F7-6772767075E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqResIntegration.Core", "ReqResIntegration.Core\ReqResIntegration.Core.csproj", "{907D9EFA-DBFB-4418-B474-11D03AEFCE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224CA6C6-8936-4E0F-A0F7-6772767075E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224CA6C6-8936-4E0F-A0F7-6772767075E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224CA6C6-8936-4E0F-A0F7-6772767075E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224CA6C6-8936-4E0F-A0F7-6772767075E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907D9EFA-DBFB-4418-B474-11D03AEFCE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907D9EFA-DBFB-4418-B474-11D03AEFCE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907D9EFA-DBFB-4418-B474-11D03AEFCE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907D9EFA-DBFB-4418-B474-11D03AEFCE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3906523E-9CA0-4321-8A16-2FDC210EC82A}
+	EndGlobalSection
+EndGlobal

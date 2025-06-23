@@ -1,0 +1,11 @@
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\bin\Debug\net8.0\ReqResIntegration.Core.deps.json
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\bin\Debug\net8.0\ReqResIntegration.Core.dll
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\bin\Debug\net8.0\ReqResIntegration.Core.pdb
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.AssemblyInfoInputs.cache
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.AssemblyInfo.cs
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.dll
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\refint\ReqResIntegration.Core.dll
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ReqResIntegration.Core.pdb
+D:\Projects\ReqResIntegration.ConsoleApp\ReqResIntegration.Core\obj\Debug\net8.0\ref\ReqResIntegration.Core.dll
